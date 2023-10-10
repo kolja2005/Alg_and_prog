@@ -16,4 +16,10 @@
 | [10. Дерево решений](./contest_01/10/main.go) | ![](./img/go.png) |
 | [11. Ближайшая из трех точек](./contest_01/11/main.cpp) | ![](./img/cpp.png) |
 | [12. Гипотеза Коллатца](./contest_01/12/main.go) | ![](./img/go.png) |
-| [20. Анаграмма. 2 числа](./contest_01/20/main.go) | ![](./img/go.png) |
+| [20. Анаграмма. 2 числа](./contest_01/20/main.go) | ![](./img/go.png) | 
+
+|[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
+| --- | :-: |
+| [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
+| [8. Функция. Палиндром с игнорированием](./contest_02/08/main.go) | ![](./img/go.png) |
+| [9. Функция. Счастливый билет](./contest_02/09/main.cpp) | ![](./img/cpp.png) |
