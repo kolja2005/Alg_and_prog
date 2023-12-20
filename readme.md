@@ -23,3 +23,13 @@
 | [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
 | [8. Функция. Палиндром с игнорированием](./contest_02/08/main.go) | ![](./img/go.png) |
 | [9. Функция. Счастливый билет](./contest_02/09/main.cpp) | ![](./img/cpp.png) |
+
+|[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
+| --- | :-: |
+| [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
+| [5. Самое частое слово](./contest_03/05/main.cpp) | ![](./img/cpp.png) |
+| [6. Баланс пользователя](./contest_03/06/main.cpp) | ![](./img/cpp.png) |
+
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
+| --- | :-: |
+| [1. Get a cat](./contest_05/01/main.cpp) | ![](./img/cpp.png) |
